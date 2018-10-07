@@ -2,10 +2,10 @@
 .workaround-to-meta-killing-stuff {
     color: #fff;
 }
-code.inline {
+/*code.inline {
     color: #789922;
     background: inherit !important;
-}
+}*/
 div.message-group {
     background-color: #D6DAF0;
     border: 1px solid #B7C5D9;
@@ -27,9 +27,9 @@ div.comment {
 div.chat.flex-vertical.flex-spacer {
     background: #EEF2FF;
 }
-div.channel-textarea-emoji {
+/*div.channel-textarea-emoji {
     display: none;
-}
+}*/
 div.channel-members-wrap {
     border: 1px solid transparent;
     border-radius: 3px 3px 0 0;
@@ -63,9 +63,9 @@ div.avatar-large {
 .chat>.title-wrap>.topic {
     color: #34345C;
 }
-.edit-message .edit-container-outer .avatar-large {
+/*.edit-message .edit-container-outer .avatar-large {
     display: none;
-}
+}*/
 .channel-textarea-inner textarea {
     margin-right: 0;
 }
@@ -103,9 +103,9 @@ div.avatar-large {
 .app a:hover {
     color: #DD0000;
 }
-.emoji {
-    display: none;
-}
+/*.emoji {
+	display: none;
+}*/
 .chat .divider>span {
     background: inherit;
 }
